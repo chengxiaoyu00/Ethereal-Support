@@ -1,2 +1,1 @@
-# Ethereal-Support
-Ethereal-Support
+如果有问题，请发邮件到 799614540@qq.com 或者在这个仓库提 Issue。
